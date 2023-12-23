@@ -1,4 +1,4 @@
-# Pricing-European-Option-and-Greeks
+# Pricing-European-Option-and-Greeks (Python)
 Pricing European options and Greeks
 This is simple explanation for calculating the price of an European call option for a non dividend paying stock using both Black-Scholes Merton and Monte Carlo Simulation method. The payoff of the call option is 𝑪 = 𝐦𝐚𝐱{𝑺 − 𝑲, 𝟎} where 𝑺 is the stock price at the end of Time.
 
